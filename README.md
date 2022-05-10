@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/kikinacademy" target="blank"><img src="https://img.shields.io/twitter/follow/kikinacademy?logo=twitter&style=for-the-badge" alt="kikinacademy" /></a> </p>
 
-- 🔭 I’m currently working on [KIKINACADEMY](https://kikinacademy.xyz/)
+- 🔭 Estoy trabajando en [KIKINACADEMY](https://kikinacademy.xyz/)
 
-- 👨‍💻 All of my projects are available at [https://kikinacademy.xyz/](https://kikinacademy.xyz/)
+- 👨‍💻 Mis proyectos están disponibles en [https://kikinacademy.xyz/](https://kikinacademy.xyz/)
 
-- 📝 I regularly write articles on [https://kikinacademy.xyz/](https://kikinacademy.xyz/)
+- 📝 Escribo en [https://kikinacademy.xyz/](https://kikinacademy.xyz/)
 
-- 📫 How to reach me **kikinacademy@gmail.com**
+- 📫 Escríbenos **kikinacademy@gmail.com**
 
-- 📄 Know about my experiences [https://kikinacademy.xyz/](https://kikinacademy.xyz/)
+- 📄 Mis experiencias [https://kikinacademy.xyz/](https://kikinacademy.xyz/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
