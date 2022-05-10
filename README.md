@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, Welcome to KikinAcademy</h1>
-<h3 align="center">Learn Programming and Mathematics in a technical but easy way. Ask for our personal tutorials or group classes</h3>
+<h1 align="center">Hola👋, Bienvenido to KikinAcademy</h1>
+<h3 align="center">Aprende Programación y Matemáticas de una manera técnica pero fácil.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kikinacademy&label=Profile%20views&color=0e75b6&style=flat" alt="kikinacademy" /> </p>
 
